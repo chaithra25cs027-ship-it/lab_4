@@ -1,2 +1,2 @@
-i am working in git
+i am working in git\n
 this is program 4
